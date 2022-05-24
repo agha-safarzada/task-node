@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Aga",
+        "surname":"Safarzada"
+    },
+    {
+        "id":2,
+        "name":"Ilkin",
+        "surname":"Isfandiyar"
+    },
+    {
+        "id":3,
+        "name":"Safa",
+        "surname":"Cafarzade"
+    },
+    {
+        "id":4,
+        "name":"Ayten",
+        "surname":"Avdinova"
+    }
+]
